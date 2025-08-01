@@ -1,44 +1,49 @@
 <h1 align="center">Hi there 👋, I'm Naoufal Saadi</h1>
 
 <p align="center">
-  🎓 AI & Data Science enthusiast | 📚 Book lover | 💻 Code explorer
+  🎓 AI & Data Science Enthusiast &nbsp;|&nbsp; 💻 Code Minimalist
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 📘 I enjoy diving into **useful books** that expand my thinking in AI, data, and systems.
-- 🧠 Passionate about turning ideas into clean, structured, and scalable code.
-- 🛠️ Constantly experimenting with models, frameworks, and graph-based learning.
-- 💬 I love collaborating on research-heavy or open-ended problems in AI & data.
+- 🧠 Passionate about building clean, scalable solutions through data and AI.  
+- 🛠️ Exploring frameworks, systems, and unconventional model architectures.  
+- 💬 Open to collaborating on thoughtful, research-driven, or experimental work.
 
 ---
 
-### 🧰 Tech Toolbox
-### Toolbox
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="30" alt="Scala"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" />
 </p>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg" width="70" alt="PyG"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-%23000000.svg?&style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
-
 
 ### 📫 Connect with Me
 
-- Email: naoufal894@gmail.com 
-- LinkedIn: [linkedin.com/in/naoufalsaadi](https://www.linkedin.com/in/naoufal-saadi-a4576121b/)
+- 📧 Email: [naoufal894@gmail.com](mailto:naoufal894@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/naoufalsaadi](https://www.linkedin.com/in/naoufal-saadi-a4576121b/)
 
 ---
 
-> *"Read deeply. Code clearly. Learn endlessly."*
+> *“Read deeply. Code clearly. Learn endlessly.”*
 
