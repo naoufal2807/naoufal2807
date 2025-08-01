@@ -34,19 +34,11 @@
 
 ---
 
-### 📌 Current Interests
-
-- 📊 Graph Neural Networks (GNNs), Deep Learning & Representation Learning  
-- 📚 Building a personal reading log + code snippets around impactful books  
-- ⚙️ Clean, type-safe systems using **TypeScript**, **Scala**, and **Python**
-
----
 
 ### 📫 Connect with Me
 
-- GitHub: [@naoufalsaadi](https://github.com/naoufalsaadi)
-- Email: naoufalsaadi@gmail.com *(or replace with your actual one)*
-- LinkedIn: [linkedin.com/in/naoufalsaadi](https://linkedin.com/in/naoufalsaadi) *(optional)*
+- Email: naoufal894@gmail.com 
+- LinkedIn: [linkedin.com/in/naoufalsaadi](https://www.linkedin.com/in/naoufal-saadi-a4576121b/)
 
 ---
 
