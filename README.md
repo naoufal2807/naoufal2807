@@ -1,18 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Naoufal Saadi</h1>
 
 <p align="center">
-  🎓 AI & Data Science Enthusiast &nbsp;|&nbsp; 💻 Code Minimalist
+  🚀 I build with Data & AI &nbsp;|&nbsp; 🛠️ Turning ideas into systems
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🧠 Passionate about building clean, scalable solutions through data and AI.  
-- 🛠️ Exploring frameworks, systems, and unconventional model architectures.  
-- 💬 Open to collaborating on thoughtful, research-driven, or experimental work.
+- ⚡ Building data-driven tools and AI systems  
+- 🧠 Exploring models, frameworks, and workflows  
+- 🌍 Always curious, always shipping  
 
 ---
+
 
 ### 🧰 Tech Stack
 
